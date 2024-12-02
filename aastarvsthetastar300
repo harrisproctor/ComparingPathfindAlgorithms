@@ -1,0 +1,1308 @@
+Now comparing a and t for 300
+trial: 1
+alg a 0.875
+algo a path length 47
+alg t 0.9530000000377186
+algo t path length 47
+trial: 2
+alg a 0.875
+algo a path length 43
+alg t 1.3589999999967404
+algo t path length 43
+trial: 3
+alg a 0.6879999999655411
+algo a path length 41
+alg t 0.8120000000344589
+algo t path length 41
+trial: 4
+alg a no path found
+alg t no path found
+trial: 5
+alg a no path found
+alg t no path found
+trial: 6
+alg a no path found
+alg t no path found
+trial: 7
+alg a 0.7030000000377186
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 8
+alg a 0.7970000000204891
+algo a path length 43
+alg t 0.9839999999967404
+algo t path length 41
+trial: 9
+alg a 0.7189999999827705
+algo a path length 43
+alg t 0.8280000000377186
+algo t path length 43
+trial: 10
+alg a 1.6719999999622814
+algo a path length 47
+alg t 1.672000000020489
+algo t path length 45
+trial: 11
+alg a no path found
+alg t no path found
+trial: 12
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 13
+alg a 0.7040000000270084
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 14
+alg a no path found
+alg t no path found
+trial: 15
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.8130000000237487
+algo t path length 41
+trial: 16
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 17
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 18
+alg a 2.922000000020489
+algo a path length 63
+alg t 4.2189999999827705
+algo t path length 55
+trial: 19
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.8280000000377186
+algo t path length 41
+trial: 20
+alg a 1.077999999979511
+algo a path length 47
+alg t 1.2660000000032596
+algo t path length 41
+trial: 21
+alg a no path found
+alg t no path found
+trial: 22
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 23
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 24
+alg a no path found
+alg t no path found
+trial: 25
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 26
+alg a 2.344000000040978
+algo a path length 59
+alg t 4.921999999962281
+algo t path length 49
+trial: 27
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7650000000139698
+algo t path length 41
+trial: 28
+alg a no path found
+alg t no path found
+trial: 29
+alg a no path found
+alg t no path found
+trial: 30
+alg a no path found
+alg t no path found
+trial: 31
+alg a 0.7189999999827705
+algo a path length 41
+alg t 0.8279999999795109
+algo t path length 41
+trial: 32
+alg a 0.7339999999967404
+algo a path length 43
+alg t 1.1570000000065193
+algo t path length 43
+trial: 33
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 34
+alg a 0.6720000000204891
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 35
+alg a 0.75
+algo a path length 45
+alg t 1.5
+algo t path length 43
+trial: 36
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 37
+alg a no path found
+alg t no path found
+trial: 38
+alg a no path found
+alg t no path found
+trial: 39
+alg a 0.7339999999967404
+algo a path length 43
+alg t 1.3600000000442378
+algo t path length 43
+trial: 40
+alg a no path found
+alg t no path found
+trial: 41
+alg a 0.8910000000032596
+algo a path length 49
+alg t 1.4369999999762513
+algo t path length 47
+trial: 42
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7649999999557622
+algo t path length 41
+trial: 43
+alg a 0.7660000000032596
+algo a path length 43
+alg t 0.9060000000172295
+algo t path length 41
+trial: 44
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 45
+alg a 1.062999999965541
+algo a path length 41
+alg t 0.8589999999967404
+algo t path length 41
+trial: 46
+alg a 0.875
+algo a path length 45
+alg t 1.0630000000237487
+algo t path length 41
+trial: 47
+alg a 0.7179999999934807
+algo a path length 43
+alg t 1.297000000020489
+algo t path length 43
+trial: 48
+alg a 0.8910000000032596
+algo a path length 49
+alg t 0.9529999999795109
+algo t path length 49
+trial: 49
+alg a 0.6709999999729916
+algo a path length 41
+alg t 0.7820000000065193
+algo t path length 41
+trial: 50
+alg a 0.9679999999934807
+algo a path length 53
+alg t 1.0630000000237487
+algo t path length 47
+trial: 51
+alg a no path found
+alg t no path found
+trial: 52
+alg a no path found
+alg t no path found
+trial: 53
+alg a no path found
+alg t no path found
+trial: 54
+alg a no path found
+alg t no path found
+trial: 55
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 56
+alg a 0.75
+algo a path length 45
+alg t 2.0320000000065193
+algo t path length 41
+trial: 57
+alg a 0.8280000000377186
+algo a path length 45
+alg t 0.9059999999590218
+algo t path length 45
+trial: 58
+alg a 1.6089999999967404
+algo a path length 55
+alg t 4.313000000023749
+algo t path length 45
+trial: 59
+alg a no path found
+alg t no path found
+trial: 60
+alg a 1.0160000000032596
+algo a path length 51
+alg t 1.922000000020489
+algo t path length 47
+trial: 61
+alg a no path found
+alg t no path found
+trial: 62
+alg a 0.6879999999655411
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 63
+alg a no path found
+alg t no path found
+trial: 64
+alg a 0.6879999999655411
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 65
+alg a 0.7339999999967404
+algo a path length 43
+alg t 0.8290000000270084
+algo t path length 43
+trial: 66
+alg a 0.9369999999762513
+algo a path length 55
+alg t 3.297000000020489
+algo t path length 45
+trial: 67
+alg a no path found
+alg t no path found
+trial: 68
+alg a no path found
+alg t no path found
+trial: 69
+alg a 0.7179999999934807
+algo a path length 43
+alg t 1.1570000000065193
+algo t path length 43
+trial: 70
+alg a no path found
+alg t no path found
+trial: 71
+alg a 1.7339999999967404
+algo a path length 51
+alg t 2.7040000000270084
+algo t path length 49
+trial: 72
+alg a 1.327999999979511
+algo a path length 49
+alg t 1.3589999999967404
+algo t path length 45
+trial: 73
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 74
+alg a 0.9070000000065193
+algo a path length 53
+alg t 1.4679999999934807
+algo t path length 41
+trial: 75
+alg a no path found
+alg t no path found
+trial: 76
+alg a 1.0619999999762513
+algo a path length 47
+alg t 2.7660000000032596
+algo t path length 45
+trial: 77
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7350000000442378
+algo t path length 41
+trial: 78
+alg a no path found
+alg t no path found
+trial: 79
+alg a no path found
+alg t no path found
+trial: 80
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 81
+alg a no path found
+alg t no path found
+trial: 82
+alg a 1.3130000000237487
+algo a path length 57
+alg t 2.827999999979511
+algo t path length 47
+trial: 83
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.7969999999622814
+algo t path length 41
+trial: 84
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7179999999934807
+algo t path length 41
+trial: 85
+alg a 0.7189999999827705
+algo a path length 43
+alg t 0.8280000000377186
+algo t path length 43
+trial: 86
+alg a no path found
+alg t no path found
+trial: 87
+alg a 0.7190000000409782
+algo a path length 43
+alg t 0.8119999999762513
+algo t path length 41
+trial: 88
+alg a no path found
+alg t no path found
+trial: 89
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 90
+alg a 0.8119999999762513
+algo a path length 45
+alg t 1.0160000000032596
+algo t path length 45
+trial: 91
+alg a 3.4689999999827705
+algo a path length 45
+alg t 1.4679999999934807
+algo t path length 45
+trial: 92
+alg a 0.7040000000270084
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 93
+alg a 0.75
+algo a path length 45
+alg t 1.1100000000442378
+algo t path length 43
+trial: 94
+alg a 1.077999999979511
+algo a path length 49
+alg t 3.4689999999827705
+algo t path length 49
+trial: 95
+alg a 1.0160000000032596
+algo a path length 53
+alg t 3.2810000000172295
+algo t path length 47
+trial: 96
+alg a 1.7809999999590218
+algo a path length 43
+alg t 1.5
+algo t path length 41
+trial: 97
+alg a 0.7660000000032596
+algo a path length 45
+alg t 2.1560000000172295
+algo t path length 45
+trial: 98
+alg a 0.6720000000204891
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 99
+alg a 0.7339999999967404
+algo a path length 41
+alg t 0.7820000000065193
+algo t path length 41
+trial: 100
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 101
+alg a no path found
+alg t no path found
+trial: 102
+alg a no path found
+alg t no path found
+trial: 103
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 104
+alg a 0.7190000000409782
+algo a path length 43
+alg t 0.7809999999590218
+algo t path length 41
+trial: 105
+alg a no path found
+alg t no path found
+trial: 106
+alg a 0.75
+algo a path length 41
+alg t 0.8900000000139698
+algo t path length 41
+trial: 107
+alg a no path found
+alg t no path found
+trial: 108
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 109
+alg a 0.75
+algo a path length 43
+alg t 0.9070000000065193
+algo t path length 41
+trial: 110
+alg a 0.7339999999967404
+algo a path length 43
+alg t 1.2339999999967404
+algo t path length 43
+trial: 111
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7969999999622814
+algo t path length 41
+trial: 112
+alg a 0.7030000000377186
+algo a path length 41
+alg t 0.7969999999622814
+algo t path length 41
+trial: 113
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 114
+alg a 0.7809999999590218
+algo a path length 45
+alg t 1.3589999999967404
+algo t path length 45
+trial: 115
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 116
+alg a 0.8279999999795109
+algo a path length 41
+alg t 0.875
+algo t path length 41
+trial: 117
+alg a 0.7190000000409782
+algo a path length 43
+alg t 0.8279999999795109
+algo t path length 43
+trial: 118
+alg a no path found
+alg t no path found
+trial: 119
+alg a 1.3600000000442378
+algo a path length 49
+alg t 1.5939999999827705
+algo t path length 41
+trial: 120
+alg a no path found
+alg t no path found
+trial: 121
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 122
+alg a no path found
+alg t no path found
+trial: 123
+alg a no path found
+alg t no path found
+trial: 124
+alg a 0.7189999999827705
+algo a path length 43
+alg t 0.8280000000377186
+algo t path length 43
+trial: 125
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7820000000065193
+algo t path length 41
+trial: 126
+alg a 0.7810000000172295
+algo a path length 45
+alg t 1.7969999999622814
+algo t path length 45
+trial: 127
+alg a 0.7030000000377186
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 128
+alg a 1.0940000000409782
+algo a path length 55
+alg t 4.202999999979511
+algo t path length 49
+trial: 129
+alg a no path found
+alg t no path found
+trial: 130
+alg a no path found
+alg t no path found
+trial: 131
+alg a 0.9369999999762513
+algo a path length 51
+alg t 5.469000000040978
+algo t path length 45
+trial: 132
+alg a no path found
+alg t no path found
+trial: 133
+alg a 4.578000000037719
+algo a path length 59
+alg t 8.85899999999674
+algo t path length 47
+trial: 134
+alg a no path found
+alg t no path found
+trial: 135
+alg a no path found
+alg t no path found
+trial: 136
+alg a 1.5320000000065193
+algo a path length 49
+alg t 2.0459999999729916
+algo t path length 45
+trial: 137
+alg a 0.8290000000270084
+algo a path length 49
+alg t 2.5459999999729916
+algo t path length 49
+trial: 138
+alg a no path found
+alg t no path found
+trial: 139
+alg a 0.6719999999622814
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 140
+alg a 0.7189999999827705
+algo a path length 43
+alg t 1.0
+algo t path length 41
+trial: 141
+alg a 1.2179999999934807
+algo a path length 57
+alg t 4.610000000044238
+algo t path length 51
+trial: 142
+alg a no path found
+alg t no path found
+trial: 143
+alg a 0.75
+algo a path length 43
+alg t 0.8589999999967404
+algo t path length 43
+trial: 144
+alg a 1.0630000000237487
+algo a path length 51
+alg t 2.7660000000032596
+algo t path length 45
+trial: 145
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 146
+alg a 1.1099999999860302
+algo a path length 45
+alg t 1.5150000000139698
+algo t path length 41
+trial: 147
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.8440000000409782
+algo t path length 41
+trial: 148
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7349999999860302
+algo t path length 41
+trial: 149
+alg a no path found
+alg t no path found
+trial: 150
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 151
+alg a 1.4380000000237487
+algo a path length 53
+alg t 2.9689999999827705
+algo t path length 51
+trial: 152
+alg a no path found
+alg t no path found
+trial: 153
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 154
+alg a no path found
+alg t no path found
+trial: 155
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7650000000139698
+algo t path length 41
+trial: 156
+alg a 0.7189999999827705
+algo a path length 43
+alg t 0.8280000000377186
+algo t path length 43
+trial: 157
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 158
+alg a 0.9379999999655411
+algo a path length 53
+alg t 3.01500000001397
+algo t path length 45
+trial: 159
+alg a 2.422000000020489
+algo a path length 47
+alg t 2.530999999959022
+algo t path length 43
+trial: 160
+alg a 0.7040000000270084
+algo a path length 41
+alg t 0.8119999999762513
+algo t path length 41
+trial: 161
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.8439999999827705
+algo t path length 41
+trial: 162
+alg a no path found
+alg t no path found
+trial: 163
+alg a 0.7809999999590218
+algo a path length 43
+alg t 0.9060000000172295
+algo t path length 43
+trial: 164
+alg a no path found
+alg t no path found
+trial: 165
+alg a no path found
+alg t no path found
+trial: 166
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 167
+alg a 0.7189999999827705
+algo a path length 43
+alg t 1.2179999999934807
+algo t path length 43
+trial: 168
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 169
+alg a no path found
+alg t no path found
+trial: 170
+alg a 0.7179999999934807
+algo a path length 43
+alg t 1.25
+algo t path length 43
+trial: 171
+alg a 0.7040000000270084
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 172
+alg a 0.9540000000270084
+algo a path length 45
+alg t 1.9369999999762513
+algo t path length 45
+trial: 173
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 174
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7189999999827705
+algo t path length 41
+trial: 175
+alg a no path found
+alg t no path found
+trial: 176
+alg a no path found
+alg t no path found
+trial: 177
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7820000000065193
+algo t path length 41
+trial: 178
+alg a 0.7179999999934807
+algo a path length 43
+alg t 0.7660000000032596
+algo t path length 43
+trial: 179
+alg a no path found
+alg t no path found
+trial: 180
+alg a no path found
+alg t no path found
+trial: 181
+alg a 0.7660000000032596
+algo a path length 43
+alg t 0.8280000000377186
+algo t path length 43
+trial: 182
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 183
+alg a 0.8119999999762513
+algo a path length 47
+alg t 1.2189999999827705
+algo t path length 43
+trial: 184
+alg a 0.7190000000409782
+algo a path length 41
+alg t 0.8589999999967404
+algo t path length 41
+trial: 185
+alg a 0.7189999999827705
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 186
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 187
+alg a 0.75
+algo a path length 45
+alg t 1.5310000000172295
+algo t path length 43
+trial: 188
+alg a no path found
+alg t no path found
+trial: 189
+alg a 0.7650000000139698
+algo a path length 45
+alg t 1.4689999999827705
+algo t path length 45
+trial: 190
+alg a 0.7810000000172295
+algo a path length 43
+alg t 0.875
+algo t path length 43
+trial: 191
+alg a 1.8599999999860302
+algo a path length 51
+alg t 2.0780000000377186
+algo t path length 51
+trial: 192
+alg a 0.875
+algo a path length 43
+alg t 0.9059999999590218
+algo t path length 43
+trial: 193
+alg a 0.7190000000409782
+algo a path length 41
+alg t 0.7649999999557622
+algo t path length 41
+trial: 194
+alg a no path found
+alg t no path found
+trial: 195
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 196
+alg a no path found
+alg t no path found
+trial: 197
+alg a no path found
+alg t no path found
+trial: 198
+alg a no path found
+alg t no path found
+trial: 199
+alg a 0.9380000000237487
+algo a path length 41
+alg t 0.9529999999795109
+algo t path length 41
+trial: 200
+alg a no path found
+alg t no path found
+trial: 201
+alg a 0.9059999999590218
+algo a path length 49
+alg t 1.3290000000270084
+algo t path length 45
+trial: 202
+alg a 0.7660000000032596
+algo a path length 45
+alg t 0.8899999999557622
+algo t path length 41
+trial: 203
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7660000000032596
+algo t path length 41
+trial: 204
+alg a 1.5
+algo a path length 41
+alg t 1.2650000000139698
+algo t path length 41
+trial: 205
+alg a no path found
+alg t no path found
+trial: 206
+alg a no path found
+alg t no path found
+trial: 207
+alg a no path found
+alg t no path found
+trial: 208
+alg a no path found
+alg t no path found
+trial: 209
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 210
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 211
+alg a 0.7820000000065193
+algo a path length 45
+alg t 0.9060000000172295
+algo t path length 45
+trial: 212
+alg a 2.2189999999827705
+algo a path length 61
+alg t 4.10899999999674
+algo t path length 51
+trial: 213
+alg a no path found
+alg t no path found
+trial: 214
+alg a 1.2190000000409782
+algo a path length 57
+alg t 2.1089999999967404
+algo t path length 55
+trial: 215
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7820000000065193
+algo t path length 41
+trial: 216
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 217
+alg a no path found
+alg t no path found
+trial: 218
+alg a 1.125
+algo a path length 49
+alg t 2.8290000000270084
+algo t path length 49
+trial: 219
+alg a no path found
+alg t no path found
+trial: 220
+alg a no path found
+alg t no path found
+trial: 221
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 222
+alg a no path found
+alg t no path found
+trial: 223
+alg a no path found
+alg t no path found
+trial: 224
+alg a 0.7660000000032596
+algo a path length 45
+alg t 0.9369999999762513
+algo t path length 41
+trial: 225
+alg a no path found
+alg t no path found
+trial: 226
+alg a no path found
+alg t no path found
+trial: 227
+alg a no path found
+alg t no path found
+trial: 228
+alg a 1.7969999999622814
+algo a path length 51
+alg t 1.9690000000409782
+algo t path length 51
+trial: 229
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 230
+alg a 0.6879999999655411
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 231
+alg a no path found
+alg t no path found
+trial: 232
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 233
+alg a 0.7660000000032596
+algo a path length 45
+alg t 0.9220000000204891
+algo t path length 45
+trial: 234
+alg a no path found
+alg t no path found
+trial: 235
+alg a no path found
+alg t no path found
+trial: 236
+alg a no path found
+alg t no path found
+trial: 237
+alg a 1.547000000020489
+algo a path length 55
+alg t 1.5
+algo t path length 47
+trial: 238
+alg a no path found
+alg t no path found
+trial: 239
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 240
+alg a no path found
+alg t no path found
+trial: 241
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 242
+alg a no path found
+alg t no path found
+trial: 243
+alg a 0.9839999999967404
+algo a path length 41
+alg t 0.8599999999860302
+algo t path length 41
+trial: 244
+alg a 1.0939999999827705
+algo a path length 49
+alg t 1.297000000020489
+algo t path length 45
+trial: 245
+alg a 0.8439999999827705
+algo a path length 49
+alg t 2.047000000020489
+algo t path length 43
+trial: 246
+alg a 0.7959999999729916
+algo a path length 45
+alg t 0.875
+algo t path length 45
+trial: 247
+alg a 0.7040000000270084
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 248
+alg a no path found
+alg t no path found
+trial: 249
+alg a 0.8589999999967404
+algo a path length 47
+alg t 1.0320000000065193
+algo t path length 41
+trial: 250
+alg a no path found
+alg t no path found
+trial: 251
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7660000000032596
+algo t path length 41
+trial: 252
+alg a no path found
+alg t no path found
+trial: 253
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.7959999999729916
+algo t path length 41
+trial: 254
+alg a 0.7190000000409782
+algo a path length 43
+alg t 0.7660000000032596
+algo t path length 43
+trial: 255
+alg a no path found
+alg t no path found
+trial: 256
+alg a no path found
+alg t no path found
+trial: 257
+alg a no path found
+alg t no path found
+trial: 258
+alg a no path found
+alg t no path found
+trial: 259
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 260
+alg a 1.125
+algo a path length 49
+alg t 1.1880000000237487
+algo t path length 41
+trial: 261
+alg a no path found
+alg t no path found
+trial: 262
+alg a 0.7970000000204891
+algo a path length 47
+alg t 1.7660000000032596
+algo t path length 47
+trial: 263
+alg a 0.8279999999795109
+algo a path length 41
+alg t 0.8589999999967404
+algo t path length 41
+trial: 264
+alg a 0.8440000000409782
+algo a path length 47
+alg t 1.0469999999622814
+algo t path length 45
+trial: 265
+alg a 1.0
+algo a path length 53
+alg t 1.8280000000377186
+algo t path length 45
+trial: 266
+alg a 1.2660000000032596
+algo a path length 43
+alg t 1.4689999999827705
+algo t path length 43
+trial: 267
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7970000000204891
+algo t path length 41
+trial: 268
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7810000000172295
+algo t path length 41
+trial: 269
+alg a 1.1099999999860302
+algo a path length 49
+alg t 1.5150000000139698
+algo t path length 41
+trial: 270
+alg a no path found
+alg t no path found
+trial: 271
+alg a 1.202999999979511
+algo a path length 51
+alg t 1.8440000000409782
+algo t path length 43
+trial: 272
+alg a 0.7649999999557622
+algo a path length 41
+alg t 0.8440000000409782
+algo t path length 41
+trial: 273
+alg a 2.077999999979511
+algo a path length 61
+alg t 2.875
+algo t path length 43
+trial: 274
+alg a no path found
+alg t no path found
+trial: 275
+alg a 0.875
+algo a path length 43
+alg t 0.9059999999590218
+algo t path length 41
+trial: 276
+alg a no path found
+alg t no path found
+trial: 277
+alg a 0.7029999999795109
+algo a path length 41
+alg t 0.7339999999967404
+algo t path length 41
+trial: 278
+alg a 0.6870000000344589
+algo a path length 41
+alg t 0.7809999999590218
+algo t path length 41
+trial: 279
+alg a 0.7350000000442378
+algo a path length 43
+alg t 0.8119999999762513
+algo t path length 41
+trial: 280
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.7350000000442378
+algo t path length 41
+trial: 281
+alg a no path found
+alg t no path found
+trial: 282
+alg a no path found
+alg t no path found
+trial: 283
+alg a no path found
+alg t no path found
+trial: 284
+alg a 0.6880000000237487
+algo a path length 41
+alg t 0.8279999999795109
+algo t path length 41
+trial: 285
+alg a no path found
+alg t no path found
+trial: 286
+alg a 1.327999999979511
+algo a path length 45
+alg t 1.312000000034459
+algo t path length 41
+trial: 287
+alg a 0.7189999999827705
+algo a path length 41
+alg t 0.8589999999967404
+algo t path length 41
+trial: 288
+alg a 1.2660000000032596
+algo a path length 47
+alg t 3.1560000000172295
+algo t path length 45
+trial: 289
+alg a 0.7189999999827705
+algo a path length 43
+alg t 0.7810000000172295
+algo t path length 43
+trial: 290
+alg a no path found
+alg t no path found
+trial: 291
+alg a no path found
+alg t no path found
+trial: 292
+alg a 0.6869999999762513
+algo a path length 41
+alg t 0.75
+algo t path length 41
+trial: 293
+alg a 0.7810000000172295
+algo a path length 43
+alg t 0.875
+algo t path length 41
+trial: 294
+alg a 1.1559999999590218
+algo a path length 55
+alg t 1.5630000000237487
+algo t path length 49
+trial: 295
+alg a no path found
+alg t no path found
+trial: 296
+alg a 0.7179999999934807
+algo a path length 43
+alg t 0.8130000000237487
+algo t path length 41
+trial: 297
+alg a 1.2649999999557622
+algo a path length 49
+alg t 1.6880000000237487
+algo t path length 41
+trial: 298
+alg a 1.7660000000032596
+algo a path length 69
+alg t 4.4060000000172295
+algo t path length 51
+trial: 299
+alg a 0.9369999999762513
+algo a path length 49
+alg t 2.8130000000237487
+algo t path length 49
+trial: 300
+alg a 0.7189999999827705
+algo a path length 41
+alg t 0.8279999999795109
+algo t path length 41
+
+average for a: 0.916691542287422
+average for t: 1.328547263683332
+average for path length for a: 44.55223880597015
+average path length for t: 42.87064676616915

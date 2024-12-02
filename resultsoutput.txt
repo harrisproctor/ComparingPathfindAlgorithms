@@ -1,0 +1,10 @@
+Now comparing a and v for 5
+trial: 1
+alg a no path found
+alg v trial: 2
+alg a 0.40600000000267755
+algo a path length 24
+alg v trial: 3
+alg a 0.40600000000267755
+algo a path length 24
+alg v 
